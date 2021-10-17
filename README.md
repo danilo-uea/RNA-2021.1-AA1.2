@@ -10,7 +10,7 @@
 Esta atividade tem como objetivo realizar uma análise exploratória nos dados relacionados à pandemia de COVID-19 que foram disponibilizados pela Prefeitura de Manaus, com o objetivo de se extrair informações relevantes sobre a pandemia e criar representações visuais.
 
 ## Tecnologias
-Esta atividade foi desenvolvida em Python por meio do Google Colab Acesso ao Colab. As bibliotecas usadas neste projeto para manipular os dados foram a pandas e a numpy
+Esta atividade foi desenvolvida em Python por meio do Google Colab [Acesso ao Colab](https://colab.research.google.com/drive/1VnNwwFnhgMdEFxZvVMlL8iglNAn8OnR0?usp=sharing). As bibliotecas usadas neste projeto para manipular os dados foram a pandas e a numpy
 
 ## DataSet
 O DataSet usado nesta atividade foi disponibilizado pela Prefeitura de Manaus, [Link do DataSet](https://covid19.manaus.am.gov.br/wp-content/uploads/Manaus.csv) e armazenados no Google Drive.
